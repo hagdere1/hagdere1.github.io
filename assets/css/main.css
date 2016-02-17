@@ -1986,7 +1986,7 @@
 
 	.image {
 		border-radius: 5px;
-		border: 0;
+		border: 1px solid #ccc;
 		display: inline-block;
 		position: relative;
 	}
@@ -2581,7 +2581,7 @@
 /* One */
 
 	#one:before {
-		background-image: url("../../images/banner.jpg");
+		background-image: url("../../images/black-and-white-city-skyline-buildings-large.jpg");
 		background-position: top right;
 		background-repeat: no-repeat;
 		background-size: cover;
