@@ -2459,6 +2459,11 @@
 				margin-bottom: 0;
 			}
 
+			.languages {
+				font-style: italic;
+				padding-bottom: 0;
+			}
+
 /* Header */
 
 	#header {
